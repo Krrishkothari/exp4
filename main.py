@@ -5,6 +5,8 @@
 from add import add
 from sub import sub
 from mul import mul
+from div import div
+
 
 def main():
     """
@@ -30,9 +32,14 @@ def main():
     result_mul = mul(num1, num2)
     print(f"Multiplication: {num1} * {num2} = {result_mul}")
     
+    # Division operation
+    result_div = div(num1, num2)
+    print(f"Division: {num1} / {num2} = {result_div}")
+    
     print("\n" + "=" * 50)
     print("All operations completed successfully!")
     print("All feature branches have been integrated.")
+
 
 if __name__ == "__main__":
     main()

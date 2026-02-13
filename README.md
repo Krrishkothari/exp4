@@ -6,6 +6,8 @@ This is a simple calculator application demonstrating Git branching and merging.
 - Addition (add.py)
 - Subtraction (sub.py)
 - Multiplication (mul.py)
+- Division (div.py) - Added in v2.0
+
 
 ## Usage
 Run `python main.py` to test all calculator operations.
