@@ -14,3 +14,7 @@ Run `python main.py` to test all calculator operations.
 - Feature branch development
 - Branch merging
 - Version tagging
+
+## Note
+This project demonstrates proper version control practices using Git.
+
